@@ -108,7 +108,7 @@ loadChatgptDB();
 
 /*◊════════════• ❮ INSTALACION Y CONEXIÓN ❯ •═════════════◊*/
 
-global.authFile = `NaufraBotSession`;
+global.authFile = `EVABotSession`;
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile);
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const msgRetryCounterCache = new NodeCache()
