@@ -92,7 +92,7 @@ npm start
 
 <h2 align="center">💎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 💎</h2> 
 
-[![WhatsApp](https://i.postimg.cc/G3zHrvFG/IMG-20240329-WA0106.jpg)](https://wa.me/51995490187)
+[![WhatsApp](https://i.postimg.cc/76wt3FQC/IMG-20240329-WA0114.jpg)](https://wa.me/51995490187)
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
