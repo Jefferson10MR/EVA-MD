@@ -82,24 +82,17 @@ npm start
 > [!NOTE]
 > Contactanos si tienes dudas o problemas con el bot.
 
-[![WhatsApp](https://img.shields.io/badge/Support-Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
+[![WhatsApp](https://img.shields.io/badge/Support-Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51995490187)
 
-[![WhatsApp](https://img.shields.io/badge/GuardianBot-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
+[![WhatsApp](https://img.shields.io/badge/GuardianBot-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51995490187)
 
-[![WhatsApp](https://img.shields.io/badge/Asistencia-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873605231)
+[![WhatsApp](https://img.shields.io/badge/Asistencia-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51995490187)
 
-[![WhatsApp](https://img.shields.io/badge/Colaboradora-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653)
+[![WhatsApp](https://img.shields.io/badge/Colaboradora-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51995490187)
 
 <h2 align="center">💎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 💎</h2> 
 
 [![WhatsApp](https://i.postimg.cc/76wt3FQC/IMG-20240329-WA0114.jpg)](https://wa.me/51995490187)
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<h2 align="center">👑 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 👑</h2>
-
-<a href="https://github.com/NaufraZapp"><img src="https://github.com/NaufraZapp.png" width="300" height="300" alt="EVA-MD"/></a>
-
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
