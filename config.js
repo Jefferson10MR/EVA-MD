@@ -29,9 +29,9 @@ global.owner = [
 // ❒═════════════════◊【 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎𝐒 】◊═════════════════❒
 //Agregate si tu numero es owner
 global.contactos = [
-["51907779949", '🌎 ING: KEVIN 𝙊𝙁𝘾 🌎', 1],
+["51907779949", '🌎 EVA-MD 𝙊𝙁𝘾 🌎', 1],
 ["19145948340", '🛡️ 𝙂𝙪𝙖𝙧𝙙𝙞𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 🛡️', 1],
-["51994776222", '🟢 ING: KEVIN 𝙎𝙪𝙥𝙥𝙤𝙩 🟢', 1],
+["51994776222", '🟢 EVA-MD 𝙎𝙪𝙥𝙥𝙤𝙩 🟢', 1],
 ["51995776223", '⚙️ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘽𝙤𝙩𝙨 ⚙️', 1],
 ["51994776222", '🥏 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🥏', 1],
 ["51995490187", '💚 𝙊𝙬𝙣𝙚𝙧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 💚', 1]]
@@ -41,13 +41,13 @@ global.suittag = ['51994776222'];
 global.prems = ['51995490187'];
 
 // ❒═════════════════◊【 𝐍𝐎𝐌𝐁𝐑𝐄𝐒 】◊═════════════════❒
-global.packname = '🌎 ING: KEVIN-𝙈𝘿 🌎';
-global.author = 'KEVIN';
-global.wm = '👑 ING: KEVIN-𝙈𝘿 👑';
-global.sk = '♨️ ING: KEVIN ♨️';
-global.titulowm = '🏙️ ING: KEVINBOT-𝙈𝘿 🏙️';
-global.titulowm2 = `ING: KEVIN ✨`
-global.igfg = 'ING: KEVIN-MD';
+global.packname = '🌎 EVA-𝙈𝘿 🌎';
+global.author = 'EVA';
+global.wm = '👑 EVA-𝙈𝘿 👑';
+global.sk = '♨️ EVA-MD ♨️';
+global.titulowm = '🏙️ EVABOT-𝙈𝘿 🏙️';
+global.titulowm2 = `EVA ✨`
+global.igfg = 'EVQ-MD';
 global.wait = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
 global.vs = '1.0.5';
 // ❒═════════════════◊【 𝐌𝐄𝐍𝐔𝐒 𝐃𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 】◊═════════════════❒
@@ -94,8 +94,8 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 // ❒═════════════════◊【 𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐈𝐎 】◊═════════════════❒
 global.wm2 = `${dia} ${fecha}\nNaufraBot`;
-global.gt = 'ING:KEVIMBot';
-global.mysticbot = 'ING: KEVINBot-MD';
+global.gt = 'EVA-MDBot';
+global.mysticbot = 'EVABot-MD';
 global.mysticbot = 'https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD';
 global.waitt = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
 global.waittt = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
