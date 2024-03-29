@@ -75,7 +75,7 @@ npm start
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Menu.jpg](https://i.postimg.cc/FF2pHyJX/Menu.jpg)](https://postimg.cc/0r0DtJfV)
+[![Menu.jpg](https://i.postimg.cc/G3zHrvFG/IMG-20240329-WA0106.jpg)](https://postimg.cc/0r0DtJfV)
 
 <h2 align="center">🌎 𝐃𝐔𝐃𝐀𝐒 𝐎 𝐏𝐑𝐎𝐁𝐋𝐄𝐌𝐀𝐒 🌎</h2> 
 
@@ -92,13 +92,13 @@ npm start
 
 <h2 align="center">💎 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 💎</h2> 
 
-[![WhatsApp](https://img.shields.io/badge/NaufraZapp-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51929838430)
+[![WhatsApp](https://i.postimg.cc/G3zHrvFG/IMG-20240329-WA0106.jpg)](https://wa.me/51995490187)
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h2 align="center">👑 𝐏𝐑𝐎𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 👑</h2>
 
-<a href="https://github.com/NaufraZapp"><img src="https://github.com/NaufraZapp.png" width="300" height="300" alt="NaufraZapp"/></a>
+<a href="https://github.com/NaufraZapp"><img src="https://github.com/NaufraZapp.png" width="300" height="300" alt="EVA-MD"/></a>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
