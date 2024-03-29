@@ -14,30 +14,22 @@ global.confirmCode = ""
 // ❒═════════════════◊【 𝐎𝐖𝐍𝐄𝐑𝐀 】◊═════════════════❒
 //No toques los nuneros que contienen el "true"
 global.owner = [
- ['5493873687620', '👑 𝘾𝙧𝙚𝙖𝙙𝙤𝙧 👑', true],
- ['19145948340', '🛡️ 𝙂𝙪𝙖𝙧𝙙𝙞𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 🛡️', true],
- ['573012482597', '𝙊𝙬𝙣𝙚𝙧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🔮', true],
- ['5491130362550'],
- ['51929838430'],
- ['5491164834251'],
- ['5491130288378'],
- ['5493873605231'],
- ['5491133978269'],
- ['14437013473']]
+ ['51995490187', '👑 𝘾𝙧𝙚𝙖𝙙𝙤𝙧 👑', true],
+ ['519947762222', '🛡️ 𝙂𝙪𝙖𝙧𝙙𝙞𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 🛡️', true],
+ ['51995490187', '𝙊𝙬𝙣𝙚𝙧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🔮', true],
 
- 
 // ❒═════════════════◊【 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎𝐒 】◊═════════════════❒
 //Agregate si tu numero es owner
 global.contactos = [
 ["51907779949", '🌎 EVA-MD 𝙊𝙁𝘾 🌎', 1],
-["19145948340", '🛡️ 𝙂𝙪𝙖𝙧𝙙𝙞𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 🛡️', 1],
+["51995490187", '🛡️ 𝙂𝙪𝙖𝙧𝙙𝙞𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 🛡️', 1],
 ["51994776222", '🟢 EVA-MD 𝙎𝙪𝙥𝙥𝙤𝙩 🟢', 1],
 ["51995776223", '⚙️ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘽𝙤𝙩𝙨 ⚙️', 1],
 ["51994776222", '🥏 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🥏', 1],
 ["51995490187", '💚 𝙊𝙬𝙣𝙚𝙧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 💚', 1]]
 
 // ❒═════════════════◊【 𝐈𝐆𝐍𝐎𝐑𝐄𝐍 𝐄𝐒𝐓𝐄 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 】◊═════════════════❒
-global.suittag = ['51994776222'];
+global.suittag = ['51995490187'];
 global.prems = ['51995490187'];
 
 // ❒═════════════════◊【 𝐍𝐎𝐌𝐁𝐑𝐄𝐒 】◊═════════════════❒
@@ -47,7 +39,7 @@ global.wm = '👑 EVA-𝙈𝘿 👑';
 global.sk = '♨️ EVA-MD ♨️';
 global.titulowm = '🏙️ EVABOT-𝙈𝘿 🏙️';
 global.titulowm2 = `EVA ✨`
-global.igfg = 'EVQ-MD';
+global.igfg = 'EVA-MD';
 global.wait = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
 global.vs = '1.0.5';
 // ❒═════════════════◊【 𝐌𝐄𝐍𝐔𝐒 𝐃𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 】◊═════════════════❒
@@ -61,15 +53,15 @@ global.imagen7 = fs.readFileSync('./Menu6.jpg')
 global.imagen8 = fs.readFileSync('./Menu4.jpg')
 // ❒═════════════════◊【 𝐄𝐍𝐋𝐀𝐂𝐄𝐒 】◊═════════════════❒
 //Enlaces aleatorios del bot
-global.gp1 = 'https://chat.whatsapp.com/DMNdCYvPGnOIO5Pg8MUQoV'
-global.gp2 = 'https://www.paypal.me/ColaboracionBotOFC'
-global.gp3 = 'https://www.instagram.com/naufrazapp?igsh=Y2g1ZXJxbm53eXAy'
-global.gp4 = 'https://www.tiktok.com/@naufra.zapp?_t=8kcJigwvtji&_r=1'
-global.channel = 'https://wa.me/5493873687620'
-global.paypal = 'https://www.paypal.me/NaufragoSolano'
-global.yt = 'https://youtube.com/@user-bw5wl4ye8r?si=qN8bP4ZdKm3yXwbx'
-global.md = 'https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD'
-global.fb = 'https://www.facebook.com/share/8XyV52kz3sfhrzft/?mibextid=qi2Omg'
+global.gp1 = ''
+global.gp2 = ''
+global.gp3 = ''
+global.gp4 = ''
+global.channel = 'https://wa.me/51995490187'
+global.paypal = ''
+global.yt = ''
+global.md = ''
+global.fb = ''
 // ❒═════════════════◊【 𝐈𝐌𝐀𝐆𝐄𝐍𝐄𝐒 】◊═════════════════❒
 // ❒═════════════════◊【 𝐕𝐈𝐃𝐄𝐎𝐒 】◊═════════════════❒
 // ❒═════════════════◊【 𝐌𝐄𝐍𝐒𝐀𝐉𝐄𝐒 𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐈𝐎𝐒 】◊═════════════════❒
@@ -93,10 +85,10 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 // ❒═════════════════◊【 𝐀𝐋𝐄𝐀𝐓𝐎𝐑𝐈𝐎 】◊═════════════════❒
-global.wm2 = `${dia} ${fecha}\nNaufraBot`;
+global.wm2 = `${dia} ${fecha}\nEVABot`;
 global.gt = 'EVA-MDBot';
 global.mysticbot = 'EVABot-MD';
-global.mysticbot = 'https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD';
+global.mysticbot = '';
 global.waitt = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
 global.waittt = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
 global.waitttt = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
