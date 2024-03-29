@@ -43,14 +43,14 @@ global.igfg = 'EVA-MD';
 global.wait = '*ⓘ 𝙲𝙰𝚁𝙶𝙰𝙽𝙳𝙾....*';
 global.vs = '1.0.5';
 // ❒═════════════════◊【 𝐌𝐄𝐍𝐔𝐒 𝐃𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 】◊═════════════════❒
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./evaMD.png');
+global.imagen1 = fs.readFileSync('./Menu.jpg');
+global.imagen2 = fs.readFileSync('./Menu.jpg');
+global.imagen3 = fs.readFileSync('./Menu.png');
 global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
-global.imagen7 = fs.readFileSync('./Menu6.jpg')
-global.imagen8 = fs.readFileSync('./Menu4.jpg')
+global.imagen5 = fs.readFileSync('./Menu.jpg');
+global.imagen6 = fs.readFileSync('./Menu.png');
+global.imagen7 = fs.readFileSync('./Menu.jpg')
+global.imagen8 = fs.readFileSync('./Menu.jpg')
 // ❒═════════════════◊【 𝐄𝐍𝐋𝐀𝐂𝐄𝐒 】◊═════════════════❒
 //Enlaces aleatorios del bot
 global.gp1 = ''
